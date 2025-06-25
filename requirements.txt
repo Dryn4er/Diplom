@@ -61,3 +61,4 @@ wcwidth==0.2.13
 
 pandas~=2.3.0
 Faker~=37.4.0
+filepath~=0.1
